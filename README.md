@@ -1,5 +1,10 @@
 # money_manager_flutter
 
+///
+   This for testing purpose i developed a long time ago now i just posted for learning for the git 
+   i advice you guys don't download this project at this time right now lot of bug is there in this project
+\\\
+
 A new Flutter project.
 
 ## Getting Started
